@@ -59,10 +59,10 @@ export const CATEGORIES = ['Electronics', 'Grocery', 'Clothing', 'Stationery', '
 
 export const mockUser: User = {
   id: 'u1',
-  name: 'Raj Patel',
-  shopName: 'Patel General Store',
+  name: 'sainath kamathe',
+  shopName: 'Kamathe General Store',
   mobile: '9876543210',
-  email: 'raj@patelstore.com',
+  email: 'sainath kamathe',
   city: 'Mumbai',
   area: 'Andheri West',
 };
