@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Label } from '@/components/ui/label';
 
 export default function Login() {
-  const [email, setEmail] = useState('raj@patelstore.com');
+  const [email, setEmail] = useState('sainath kamathe');
   const [password, setPassword] = useState('demo123');
   const { login } = useAuth();
   const navigate = useNavigate();
